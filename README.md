@@ -1,2 +1,2 @@
 # mjk
-repository
+fist repository
